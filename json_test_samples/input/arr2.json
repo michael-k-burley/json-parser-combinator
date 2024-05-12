@@ -1,0 +1,222 @@
+[
+    {
+      "id": 0,
+      "name": "Nora",
+      "city": "New Orleans",
+      "age": 55,
+      "friends": [
+        {
+          "name": "Emma",
+          "hobbies": [ "Calligraphy", "Television", "Music" ]
+        },
+        {
+          "name": "Lucas",
+          "hobbies": [ "Yoga", "Playing Cards" ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Mia",
+      "city": "New York City",
+      "age": 26,
+      "friends": [
+        {
+          "name": "Elijah",
+          "hobbies": [ "Golf", "Calligraphy" ]
+        },
+        {
+          "name": "Grace",
+          "hobbies": [ "Walking", "Golf", "Shopping" ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Luke",
+      "city": "Charleston",
+      "age": 98,
+      "friends": [
+        {
+          "name": "Elijah",
+          "hobbies": [ "Martial Arts", "Calligraphy", "Collecting" ]
+        },
+        {
+          "name": "Michael",
+          "hobbies": [ "Watching Sports", "Music", "Podcasts" ]
+        },
+        {
+          "name": "Camila",
+          "hobbies": [ "Writing", "Martial Arts", "Music" ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Daniel",
+      "city": "Saint Augustine",
+      "age": 21,
+      "friends": [
+        {
+          "name": "Oliver",
+          "hobbies": [ "Movie Watching", "Playing Cards" ]
+        },
+        {
+          "name": "Liam",
+          "hobbies": [ "Watching Sports", "Tennis", "Walking" ]
+        },
+        {
+          "name": "Victoria",
+          "hobbies": [ "Genealogy", "Socializing", "Traveling" ]
+        },
+        {
+          "name": "Kevin",
+          "hobbies": [ "Walking", "Tennis", "Golf" ]
+        },
+        {
+          "name": "Michelle",
+          "hobbies": [ "Socializing", "Fishing", "Watching Sports" ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jack",
+      "city": "Las Vegas",
+      "age": 51,
+      "friends": [
+        {
+          "name": "Luke",
+          "hobbies": [ "Podcasts", "Tennis", "Watching Sports" ]
+        },
+        {
+          "name": "Chris",
+          "hobbies": [ "Skiing & Snowboarding", "Housework" ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Victoria",
+      "city": "Palm Springs",
+      "age": 21,
+      "friends": [
+        {
+          "name": "Michael",
+          "hobbies": [ "Gardening", "Running", "Walking" ]
+        },
+        {
+          "name": "Nora",
+          "hobbies": [ "Fishing", "Housework", "Shopping" ]
+        },
+        {
+          "name": "Elijah",
+          "hobbies": [ "Podcasts", "Walking" ]
+        },
+        {
+          "name": "Luke",
+          "hobbies": [ "Traveling", "Socializing" ]
+        },
+        {
+          "name": "Emma",
+          "hobbies": [ "Podcasts", "Tennis", "Board Games" ]
+        },
+        {
+          "name": "Oliver",
+          "hobbies": [ "Reading", "Painting", "Shopping" ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chloe",
+      "city": "Los Angeles",
+      "age": 19,
+      "friends": [
+        {
+          "name": "Leo",
+          "hobbies": [ "Fishing", "Cooking", "Dancing" ]
+        },
+        {
+          "name": "Nora",
+          "hobbies": [ "Housework", "Video Games", "Music" ]
+        },
+        {
+          "name": "Sarah",
+          "hobbies": [ "Board Games", "Woodworking", "Traveling" ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Isabella",
+      "city": "Portland",
+      "age": 30,
+      "friends": [
+        {
+          "name": "Chloe",
+          "hobbies": [ "Television", "Movie Watching" ]
+        },
+        {
+          "name": "Grace",
+          "hobbies": [ "Calligraphy", "Cooking" ]
+        },
+        {
+          "name": "Chris",
+          "hobbies": [ "Reading", "Volunteer Work", "Watching Sports" ]
+        },
+        {
+          "name": "Luke",
+          "hobbies": [ "Board Games", "Walking" ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Olivia",
+      "city": "Miami Beach",
+      "age": 49,
+      "friends": [
+        {
+          "name": "Zoey",
+          "hobbies": [ "Martial Arts", "Watching Sports", "Cooking" ]
+        },
+        {
+          "name": "Grace",
+          "hobbies": [ "Golf", "Genealogy", "Bicycling" ]
+        },
+        {
+          "name": "Emily",
+          "hobbies": [ "Genealogy", "Collecting" ]
+        },
+        {
+          "name": "Sarah",
+          "hobbies": [ "Shopping", "Socializing", "Martial Arts" ]
+        },
+        {
+          "name": "Emma",
+          "hobbies": [ "Yoga", "Church Activities", "Golf" ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kevin",
+      "city": "Miami Beach",
+      "age": 39,
+      "friends": [
+        {
+          "name": "Mia",
+          "hobbies": [ "Jewelry Making", "Eating Out", "Traveling" ]
+        },
+        {
+          "name": "Nora",
+          "hobbies": [ "Painting", "Jewelry Making" ]
+        },
+        {
+          "name": "Michael",
+          "hobbies": [ "Podcasts", "Writing", "Socializing" ]
+        }
+      ]
+    }
+  ]

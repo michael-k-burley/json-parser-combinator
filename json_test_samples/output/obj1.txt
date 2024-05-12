@@ -1,0 +1,36 @@
+JsObject(
+    {
+        "Address": JsObject(
+            {
+                "Country": JsString(
+                    "Great Britain",
+                ),
+                "City": JsString(
+                    "London",
+                ),
+                "Street": JsString(
+                    "Downing Street 10",
+                ),
+            },
+        ),
+        "FirstName": JsString(
+            "John",
+        ),
+        "PhoneNumbers": JsArray(
+            [
+                JsString(
+                    "+44 1234567",
+                ),
+                JsString(
+                    "+44 2345678",
+                ),
+            ],
+        ),
+        "LastName": JsString(
+            "Doe",
+        ),
+        "Age": JsNumber(
+            43.0,
+        ),
+    },
+)

@@ -1,0 +1,56 @@
+JsArray(
+    [
+        JsObject(
+            {
+                "secretIdentity": JsString(
+                    "Dan Jukes",
+                ),
+                "age": JsNumber(
+                    29.0,
+                ),
+                "name": JsString(
+                    "Molecule Man",
+                ),
+                "powers": JsArray(
+                    [
+                        JsString(
+                            "Radiation resistance",
+                        ),
+                        JsString(
+                            "Turning tiny",
+                        ),
+                        JsString(
+                            "Radiation blast",
+                        ),
+                    ],
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "secretIdentity": JsString(
+                    "Jane Wilson",
+                ),
+                "age": JsNumber(
+                    39.0,
+                ),
+                "powers": JsArray(
+                    [
+                        JsString(
+                            "Million tonne punch",
+                        ),
+                        JsString(
+                            "Damage resistance",
+                        ),
+                        JsString(
+                            "Superhuman reflexes",
+                        ),
+                    ],
+                ),
+                "name": JsString(
+                    "Madame Uppercut",
+                ),
+            },
+        ),
+    ],
+)

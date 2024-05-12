@@ -1,0 +1,871 @@
+JsArray(
+    [
+        JsObject(
+            {
+                "id": JsNumber(
+                    0.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Emma",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Calligraphy",
+                                        ),
+                                        JsString(
+                                            "Television",
+                                        ),
+                                        JsString(
+                                            "Music",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Lucas",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Yoga",
+                                        ),
+                                        JsString(
+                                            "Playing Cards",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "age": JsNumber(
+                    55.0,
+                ),
+                "name": JsString(
+                    "Nora",
+                ),
+                "city": JsString(
+                    "New Orleans",
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "id": JsNumber(
+                    1.0,
+                ),
+                "age": JsNumber(
+                    26.0,
+                ),
+                "city": JsString(
+                    "New York City",
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Elijah",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Golf",
+                                        ),
+                                        JsString(
+                                            "Calligraphy",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                        JsString(
+                                            "Golf",
+                                        ),
+                                        JsString(
+                                            "Shopping",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Grace",
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "name": JsString(
+                    "Mia",
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "id": JsNumber(
+                    2.0,
+                ),
+                "city": JsString(
+                    "Charleston",
+                ),
+                "name": JsString(
+                    "Luke",
+                ),
+                "age": JsNumber(
+                    98.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Martial Arts",
+                                        ),
+                                        JsString(
+                                            "Calligraphy",
+                                        ),
+                                        JsString(
+                                            "Collecting",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Elijah",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Michael",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                        JsString(
+                                            "Music",
+                                        ),
+                                        JsString(
+                                            "Podcasts",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Camila",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Writing",
+                                        ),
+                                        JsString(
+                                            "Martial Arts",
+                                        ),
+                                        JsString(
+                                            "Music",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "name": JsString(
+                    "Daniel",
+                ),
+                "city": JsString(
+                    "Saint Augustine",
+                ),
+                "id": JsNumber(
+                    3.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Oliver",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Movie Watching",
+                                        ),
+                                        JsString(
+                                            "Playing Cards",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                        JsString(
+                                            "Tennis",
+                                        ),
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Liam",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Victoria",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Genealogy",
+                                        ),
+                                        JsString(
+                                            "Socializing",
+                                        ),
+                                        JsString(
+                                            "Traveling",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                        JsString(
+                                            "Tennis",
+                                        ),
+                                        JsString(
+                                            "Golf",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Kevin",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Michelle",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Socializing",
+                                        ),
+                                        JsString(
+                                            "Fishing",
+                                        ),
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "age": JsNumber(
+                    21.0,
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "city": JsString(
+                    "Las Vegas",
+                ),
+                "name": JsString(
+                    "Jack",
+                ),
+                "id": JsNumber(
+                    4.0,
+                ),
+                "age": JsNumber(
+                    51.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Luke",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Podcasts",
+                                        ),
+                                        JsString(
+                                            "Tennis",
+                                        ),
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Skiing & Snowboarding",
+                                        ),
+                                        JsString(
+                                            "Housework",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Chris",
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "city": JsString(
+                    "Palm Springs",
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Michael",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Gardening",
+                                        ),
+                                        JsString(
+                                            "Running",
+                                        ),
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Nora",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Fishing",
+                                        ),
+                                        JsString(
+                                            "Housework",
+                                        ),
+                                        JsString(
+                                            "Shopping",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Podcasts",
+                                        ),
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Elijah",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Luke",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Traveling",
+                                        ),
+                                        JsString(
+                                            "Socializing",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Podcasts",
+                                        ),
+                                        JsString(
+                                            "Tennis",
+                                        ),
+                                        JsString(
+                                            "Board Games",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Emma",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Oliver",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Reading",
+                                        ),
+                                        JsString(
+                                            "Painting",
+                                        ),
+                                        JsString(
+                                            "Shopping",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "age": JsNumber(
+                    21.0,
+                ),
+                "id": JsNumber(
+                    5.0,
+                ),
+                "name": JsString(
+                    "Victoria",
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Leo",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Fishing",
+                                        ),
+                                        JsString(
+                                            "Cooking",
+                                        ),
+                                        JsString(
+                                            "Dancing",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Nora",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Housework",
+                                        ),
+                                        JsString(
+                                            "Video Games",
+                                        ),
+                                        JsString(
+                                            "Music",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Sarah",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Board Games",
+                                        ),
+                                        JsString(
+                                            "Woodworking",
+                                        ),
+                                        JsString(
+                                            "Traveling",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "city": JsString(
+                    "Los Angeles",
+                ),
+                "id": JsNumber(
+                    6.0,
+                ),
+                "name": JsString(
+                    "Chloe",
+                ),
+                "age": JsNumber(
+                    19.0,
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Television",
+                                        ),
+                                        JsString(
+                                            "Movie Watching",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Chloe",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Grace",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Calligraphy",
+                                        ),
+                                        JsString(
+                                            "Cooking",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Chris",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Reading",
+                                        ),
+                                        JsString(
+                                            "Volunteer Work",
+                                        ),
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Board Games",
+                                        ),
+                                        JsString(
+                                            "Walking",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Luke",
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "name": JsString(
+                    "Isabella",
+                ),
+                "age": JsNumber(
+                    30.0,
+                ),
+                "id": JsNumber(
+                    7.0,
+                ),
+                "city": JsString(
+                    "Portland",
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "name": JsString(
+                    "Olivia",
+                ),
+                "city": JsString(
+                    "Miami Beach",
+                ),
+                "age": JsNumber(
+                    49.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Zoey",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Martial Arts",
+                                        ),
+                                        JsString(
+                                            "Watching Sports",
+                                        ),
+                                        JsString(
+                                            "Cooking",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Golf",
+                                        ),
+                                        JsString(
+                                            "Genealogy",
+                                        ),
+                                        JsString(
+                                            "Bicycling",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Grace",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Genealogy",
+                                        ),
+                                        JsString(
+                                            "Collecting",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Emily",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Sarah",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Shopping",
+                                        ),
+                                        JsString(
+                                            "Socializing",
+                                        ),
+                                        JsString(
+                                            "Martial Arts",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Emma",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Yoga",
+                                        ),
+                                        JsString(
+                                            "Church Activities",
+                                        ),
+                                        JsString(
+                                            "Golf",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+                "id": JsNumber(
+                    8.0,
+                ),
+            },
+        ),
+        JsObject(
+            {
+                "city": JsString(
+                    "Miami Beach",
+                ),
+                "id": JsNumber(
+                    9.0,
+                ),
+                "name": JsString(
+                    "Kevin",
+                ),
+                "age": JsNumber(
+                    39.0,
+                ),
+                "friends": JsArray(
+                    [
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Jewelry Making",
+                                        ),
+                                        JsString(
+                                            "Eating Out",
+                                        ),
+                                        JsString(
+                                            "Traveling",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Mia",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Painting",
+                                        ),
+                                        JsString(
+                                            "Jewelry Making",
+                                        ),
+                                    ],
+                                ),
+                                "name": JsString(
+                                    "Nora",
+                                ),
+                            },
+                        ),
+                        JsObject(
+                            {
+                                "name": JsString(
+                                    "Michael",
+                                ),
+                                "hobbies": JsArray(
+                                    [
+                                        JsString(
+                                            "Podcasts",
+                                        ),
+                                        JsString(
+                                            "Writing",
+                                        ),
+                                        JsString(
+                                            "Socializing",
+                                        ),
+                                    ],
+                                ),
+                            },
+                        ),
+                    ],
+                ),
+            },
+        ),
+    ],
+)

@@ -1,0 +1,111 @@
+JsObject(
+    {
+        "otherFake": JsBool(
+            true,
+        ),
+        "homeTown": JsString(
+            "Metro City",
+        ),
+        "active": JsBool(
+            true,
+        ),
+        "squadName": JsString(
+            "Super hero squad",
+        ),
+        "formed": JsNumber(
+            2016.0,
+        ),
+        "fakeField": JsNull,
+        "members": JsArray(
+            [
+                JsObject(
+                    {
+                        "name": JsString(
+                            "Molecule Man",
+                        ),
+                        "age": JsNumber(
+                            29.0,
+                        ),
+                        "powers": JsArray(
+                            [
+                                JsString(
+                                    "Radiation resistance",
+                                ),
+                                JsString(
+                                    "Turning tiny",
+                                ),
+                                JsString(
+                                    "Radiation blast",
+                                ),
+                            ],
+                        ),
+                        "secretIdentity": JsString(
+                            "Dan Jukes",
+                        ),
+                    },
+                ),
+                JsObject(
+                    {
+                        "powers": JsArray(
+                            [
+                                JsString(
+                                    "Million tonne punch",
+                                ),
+                                JsString(
+                                    "Damage resistance",
+                                ),
+                                JsString(
+                                    "Superhuman reflexes",
+                                ),
+                            ],
+                        ),
+                        "secretIdentity": JsString(
+                            "Jane Wilson",
+                        ),
+                        "age": JsNumber(
+                            39.0,
+                        ),
+                        "name": JsString(
+                            "Madame Uppercut",
+                        ),
+                    },
+                ),
+                JsObject(
+                    {
+                        "age": JsNumber(
+                            1000000.0,
+                        ),
+                        "secretIdentity": JsString(
+                            "Unknown",
+                        ),
+                        "name": JsString(
+                            "Eternal Flame",
+                        ),
+                        "powers": JsArray(
+                            [
+                                JsString(
+                                    "Immortality",
+                                ),
+                                JsString(
+                                    "Heat Immunity",
+                                ),
+                                JsString(
+                                    "Inferno",
+                                ),
+                                JsString(
+                                    "Teleportation",
+                                ),
+                                JsString(
+                                    "Interdimensional travel",
+                                ),
+                            ],
+                        ),
+                    },
+                ),
+            ],
+        ),
+        "secretBase": JsString(
+            "Super tower",
+        ),
+    },
+)
